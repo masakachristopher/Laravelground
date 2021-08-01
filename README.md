@@ -1,3 +1,3 @@
-### Learning php laravel
+### Learning php laravel with simple school management system
 
 
